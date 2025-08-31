@@ -52,3 +52,17 @@ Therefore, teams can create, edit, and review wireframes together, making the de
 - **Adobe XD** – Wireframing and prototyping in one platform.  
 - **Balsamiq** – Simple, low-fidelity wireframes for quick layouts.  
 - **InVision** – Interactive wireframes and prototypes with team collaboration.  
+
+## 💡 Benefits of wireframing from a software development perspective.
+
+- **Guides the Design Process**  
+  Wireframes act as a blueprint, helping teams plan user flow and interface structure early on.  
+
+- **Facilitates Team Communication**  
+  Designers, developers, and stakeholders can see and agree on the project’s layout, reducing misunderstandings.  
+
+- **Identifies Issues Early**  
+  Usability problems can be spotted and fixed before coding begins, saving time and resources.  
+
+- **Supports Collaboration with Tools like Figma**  
+  Teams can work together in real-time, review changes, and stay on the same page throughout the project.  

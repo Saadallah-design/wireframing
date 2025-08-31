@@ -24,3 +24,18 @@ As mentioned above, the wireframe main purpose is to create the initial blueprin
 8. **Focuses on Functionality and User Experience**
     - By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
 
+## Key Elements of a Wireframe
+In any website or application wireframe the following elements should be availabe:
+1. **Layout Structure:** Defines the arrangement of elements on the page.
+2. **Navigation:** Shows how users will move and navigate through the site or application.
+3. **Content Placement:** Indicates where text, images, and other content will be positioned.
+4. **Functionality:** Outlines key functionalities and interactions.
+
+## Types of Wireframes
+Mainly there are two type of wireframes; one is low fidelity (simple and basic sketches) and the second is high fidelity (more detailed).
+
+1. **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+2. **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+### The wireframe used in the provided project 
+This project wireframed using figma is High-Fidelity wireframe as it is detailed with images, navigation, colors, same fonts and sizes, and with specific detailed elements like tags and categories.

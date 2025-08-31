@@ -39,3 +39,16 @@ Mainly there are two type of wireframes; one is low fidelity (simple and basic s
 
 ### The wireframe used in the provided project 
 This project wireframed using figma is High-Fidelity wireframe as it is detailed with images, navigation, colors, same fonts and sizes, and with specific detailed elements like tags and categories.
+
+## Popular Wireframing Tools
+There're many wireframing tools but few of them are more popular than others. For example Figma is the leading wireframing tool as it allows:
+1. real-time collaboration 
+2. easy sharing
+3. flexible design. 
+Therefore, teams can create, edit, and review wireframes together, making the design process faster and more efficient.
+
+**Other wireframing tools include:**
+- **Sketch** – Mac-focused design tool with powerful plugins.  
+- **Adobe XD** – Wireframing and prototyping in one platform.  
+- **Balsamiq** – Simple, low-fidelity wireframes for quick layouts.  
+- **InVision** – Interactive wireframes and prototypes with team collaboration.  
